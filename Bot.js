@@ -240,7 +240,7 @@
         status: false,
         name: "BrasileiríssimosBOT",
         loggedInID: null,
-        scriptLink: "https://www.dropbox.com/s/kr2o52hxak9iyak/Bot.js",
+        scriptLink: "https://github.com/flyynn21/BOT/blob/master/Bot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "BrasileiríssimosBOT",
             language: "english",
             chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-            scriptLink: "https://www.dropbox.com/s/kr2o52hxak9iyak/Bot.js",
+            scriptLink: "https://github.com/flyynn21/BOT/blob/master/Bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
